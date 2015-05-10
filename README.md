@@ -1,3 +1,3 @@
 # Coursera.DSS
-Data Science Specialization - Coursera
+Data Science Specialization - Coursera.
 Johns Hopkins University
